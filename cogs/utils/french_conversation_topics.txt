@@ -7,7 +7,7 @@ Préférerais-tu avoir une ouïe surdéveloppée ou bien un sens du goût exacer
 Préférerais-tu devoir énoncer à voix haute tout ce que tu lis ou bien devoir chanter tout ce que tu dis ?
 Préférerais-tu être couvert de poils ou couvert d'écailles ?
 Préférerais-tu être craint par tout le monde ou être aimé par tous ?
-préférerais-tu être dans un prison pendant un an ou perdre un an de ta vie?
+Préférerais-tu être dans un prison pendant un an ou perdre un an de ta vie?
 Préférerais-tu être immobilisé à chaque fois qu'il pleut ou ne pas pouvoir arrêter de bouger quand il y a du soleil ?
 Préférerais-tu être incapable de porter des pantalons ou incapable de porter des shorts ?
 Préférerais-tu être soudain élu député ou devenir PDG d'une grande entreprise ?
@@ -40,9 +40,9 @@ Quelle application a eu l'air magique la première fois que tu l'as essayée ?
 Quelle application a le plus bénéfique la société ? Laquelle a été la plus délétère ?
 Quelle chose horrible est-ce que tout le monde devrait essayer au moins une fois ?
 Quelle chose incroyable as-tu fait que personne n'a vu ?
-Quelle est l'application la plus étrange dont tu ais entendu parler ou que tu ais essayée ?
-Quelle est l'application la plus frustrante que tu ais jamais essayée ?
-Quelle est l'application la plus utile que tu ais sur ton téléphone portable ? 
+Quelle est l'application la plus étrange dont tu aies entendu parler ou que tu aies essayée ?
+Quelle est l'application la plus frustrante que tu aies jamais essayée ?
+Quelle est l'application la plus utile que tu aies sur ton téléphone portable ? 
 Quelle est la question la plus fatiguante que l'on te pose régulièrement ? 
 Quelle est ta saison préférée ? Pourquoi ? 
 Quelle saison préfères-tu , l'automne ou le printemps ?
@@ -714,7 +714,7 @@ Qu'est-ce que tu regrettes de ne pas avoir fait ?
 Qu'est-ce qui donne du sens à ta vie ?
 Qu'est-ce qui te met le plus mal à l'aise ?
 Quels vaisseaux ne regrettes-tu pas d'avoir brûlé ?
-Quelle est la chose la plus illégale que tu ais faite ?
+Quelle est la chose la plus illégale que tu aies faite ?
 Comment fais-tu pour te mettre en travers de ton propre succès ?
 Qu'as-tu peur que les gens voient quand ils te regardent ?
 Quelle est la réalisation de soi la plus surprenante que tu aies eue ?
@@ -780,7 +780,6 @@ Qu'est-ce qui t'intéresse et qui n'intéresse pas la plupart des gens ?
 Si l'on te confiait un doctorat, mais que tu n'as aucune autre connaissance du sujet de ce diplôme que celle que tu as actuellement, quel diplôme aimerais-tu obtenir ?
 Si une entreprise mettait en place une nouvelle fonctionnalité pour smartphone, laquelle t'enthousiasmerait le plus ?
 Quelle est la chose dont les gens ne se soucient pas mais dont ils devraient se soucier ?
-Quelles citations de films utilises-tu régulièrement ?
 Selon toi, les enfants nés aujourd'hui auront-ils une vie meilleure ou pire que celle de leurs parents ?
 Quelle est la blague la plus drôle que tu connaisses par cœur ?
 À quand remonte la dernière fois où tu as eu l'impression d'avoir un nouveau souffle de vie ?
@@ -887,7 +886,7 @@ Quel est l'aliment le plus dégoûtant dont tu ne peux pas te passer ?
 Quelle est la marque à laquelle tu es le / la plus fidèle ?
 Quelle est la chose la plus gênante qui t'arrive régulièrement ?
 Si tu devais disparaître et commencer une toute nouvelle vie, à quoi voudrais-tu que ta nouvelle vie ressemble ?
-De quel film ou livre connaisses-tu le plus de citations ?
+Du quel film ou livre connaisses-tu le plus de citations ?
 Quel est l'un des concerts les plus intéressants auxquels tu es allé·e ?
 Où n'es-tu plus le / la bienvenu·e ?
 Selon toi, que pourrait-on faire pour améliorer les médias ?
